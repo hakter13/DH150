@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Maimi's Way to Completing the Psych Major
 
-You can use the [editor on GitHub](https://github.com/hakter13/DH150/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Image of Psych Brain](https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full/public/field_blog_entry_teaser_image/2018-08/capture.jpg?itok=OebvC-uk)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Core Requirements
+Column A | Column B
+------------ | -------------
+Psych 110 | One of Psychology 127A or 127B or 127C
+Psych 115 | One of Psychology 130, 133A-I, 161
+Psych 120A | Psych 135
+Psych 120B | Psych 150
 
-### Markdown
+**Completed So Far:**
+    Psych 110
+    Psych 120A
+    Psych 133C
+    Psych 135
+    
+*Need:*
+    (Only One): Psych 115, Psych 120B, Psych 127A/127B/127C, Psych 150
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Other Requirements
+1 Lab Course
 
-# Header 1
-## Header 2
-### Header 3
+4 Electives (Any Upper Div Psych Class)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hakter13/DH150/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Completed So Far:**
+    Electives: 
+        Psych 127A
+        Psych 133G 
+        
+*Need:*
+     1 Lab Course
+     2 Electives
 
 ### Support or Contact
+
+You can use the [editor on GitHub](https://github.com/hakter13/DH150/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
